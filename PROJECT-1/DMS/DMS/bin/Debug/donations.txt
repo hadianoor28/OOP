@@ -1,0 +1,63 @@
+===== DONATION RECORDS =====
+
+Donation ID: 1
+Donor ID: 1
+Amount: 500
+Donation Type: Cash
+Donation Date: 2026-10-25 00:37:12
+
+--------------------------
+
+Donation ID: 2
+Donor ID: 2
+Amount: 0
+Donation Type: Blood
+Donation Date: 2026-10-25 00:40:23
+
+--------------------------
+
+Donation ID: 3
+Donor ID: 2
+Amount: 0
+Donation Type: Blood
+Donation Date: 2026-10-25 00:48:48
+
+--------------------------
+
+Donation ID: 4
+Donor ID: 1
+Amount: 1000
+Donation Type: Cash
+Donation Date: 2026-10-25 00:58:35
+
+--------------------------
+
+Donation ID: 5
+Donor ID: 5
+Amount: 1000
+Donation Type: Cash
+Donation Date: 2026-10-30 17:42:43
+
+--------------------------
+
+Donation ID: 6
+Donor ID: 5
+Amount: 50000
+Donation Type: Cash
+Donation Date: 2026-10-30 18:44:07
+
+--------------------------
+
+Donation ID: 7
+Donor ID: 6
+Amount: 500
+Donation Type: Cash
+Donation Date: 2026-10-30 19:06:05
+
+--------------------------
+
+===== DONATION SUMMARY =====
+Total Donations: 7
+Total Cash Collected: 53000
+Total Blood Donations: 2
+Last Updated: 2026-10-30 19:06:05

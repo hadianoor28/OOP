@@ -1,0 +1,7 @@
+D:\OOP-lab\PROJECT-1\DMS\DMS\bin\Debug\DMS.exe.config
+D:\OOP-lab\PROJECT-1\DMS\DMS\bin\Debug\DMS.exe
+D:\OOP-lab\PROJECT-1\DMS\DMS\bin\Debug\DMS.pdb
+D:\OOP-lab\PROJECT-1\DMS\DMS\obj\Debug\DMS.csproj.AssemblyReference.cache
+D:\OOP-lab\PROJECT-1\DMS\DMS\obj\Debug\DMS.csproj.CoreCompileInputs.cache
+D:\OOP-lab\PROJECT-1\DMS\DMS\obj\Debug\DMS.exe
+D:\OOP-lab\PROJECT-1\DMS\DMS\obj\Debug\DMS.pdb

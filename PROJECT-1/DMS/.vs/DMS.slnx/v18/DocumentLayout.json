@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OOP-lab\\PROJECT-1\\DMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|d:\\oop-lab\\project-1\\dms\\dms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|solutionrelative:dms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|D:\\OOP-lab\\PROJECT-1\\DMS\\dms\\donor\\donorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|solutionrelative:dms\\donor\\donorui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|D:\\OOP-lab\\PROJECT-1\\DMS\\dms\\donor\\donorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|solutionrelative:dms\\donor\\donorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|D:\\OOP-lab\\PROJECT-1\\DMS\\dms\\donor\\donorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|solutionrelative:dms\\donor\\donorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|D:\\OOP-lab\\PROJECT-1\\DMS\\dms\\donor\\donormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|solutionrelative:dms\\donor\\donormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|D:\\OOP-lab\\PROJECT-1\\DMS\\dms\\donation\\donationui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|solutionrelative:dms\\donation\\donationui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|D:\\OOP-lab\\PROJECT-1\\DMS\\dms\\donation\\donationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|solutionrelative:dms\\donation\\donationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|D:\\OOP-lab\\PROJECT-1\\DMS\\dms\\donation\\donationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|solutionrelative:dms\\donation\\donationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|D:\\OOP-lab\\PROJECT-1\\DMS\\dms\\donation\\donationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|solutionrelative:dms\\donation\\donationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|D:\\OOP-lab\\PROJECT-1\\DMS\\dms\\admin\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|solutionrelative:dms\\admin\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|D:\\OOP-lab\\PROJECT-1\\DMS\\dms\\admin\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|solutionrelative:dms\\admin\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|D:\\OOP-lab\\PROJECT-1\\DMS\\dms\\admin\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|solutionrelative:dms\\admin\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|D:\\OOP-lab\\PROJECT-1\\DMS\\dms\\admin\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BFF16F9-631F-4911-ABC4-EC1A8D46ACD9}|DMS\\DMS.csproj|solutionrelative:dms\\admin\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\DonorManagementSystem_Approach2_CSharp\\DonorManagementSystem_Approach2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DonationService.cs",
+              "DocumentMoniker": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Donation\\DonationService.cs",
+              "RelativeDocumentMoniker": "DMS\\Donation\\DonationService.cs",
+              "ToolTip": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Donation\\DonationService.cs",
+              "RelativeToolTip": "DMS\\Donation\\DonationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T14:45:49.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DonationUI.cs",
+              "DocumentMoniker": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Donation\\DonationUI.cs",
+              "RelativeDocumentMoniker": "DMS\\Donation\\DonationUI.cs",
+              "ToolTip": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Donation\\DonationUI.cs",
+              "RelativeToolTip": "DMS\\Donation\\DonationUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T14:47:30.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DonorModel.cs",
+              "DocumentMoniker": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Donor\\DonorModel.cs",
+              "RelativeDocumentMoniker": "DMS\\Donor\\DonorModel.cs",
+              "ToolTip": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Donor\\DonorModel.cs",
+              "RelativeToolTip": "DMS\\Donor\\DonorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T13:56:35.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DonorRepository.cs",
+              "DocumentMoniker": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Donor\\DonorRepository.cs",
+              "RelativeDocumentMoniker": "DMS\\Donor\\DonorRepository.cs",
+              "ToolTip": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Donor\\DonorRepository.cs",
+              "RelativeToolTip": "DMS\\Donor\\DonorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T13:59:03.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DonorService.cs",
+              "DocumentMoniker": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Donor\\DonorService.cs",
+              "RelativeDocumentMoniker": "DMS\\Donor\\DonorService.cs",
+              "ToolTip": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Donor\\DonorService.cs",
+              "RelativeToolTip": "DMS\\Donor\\DonorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T14:07:49.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DonorUI.cs",
+              "DocumentMoniker": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Donor\\DonorUI.cs",
+              "RelativeDocumentMoniker": "DMS\\Donor\\DonorUI.cs",
+              "ToolTip": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Donor\\DonorUI.cs",
+              "RelativeToolTip": "DMS\\Donor\\DonorUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T14:17:33.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Program.cs",
+              "RelativeDocumentMoniker": "DMS\\Program.cs",
+              "ToolTip": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Program.cs",
+              "RelativeToolTip": "DMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T13:50:35.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DonationRepository.cs",
+              "DocumentMoniker": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Donation\\DonationRepository.cs",
+              "RelativeDocumentMoniker": "DMS\\Donation\\DonationRepository.cs",
+              "ToolTip": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Donation\\DonationRepository.cs",
+              "RelativeToolTip": "DMS\\Donation\\DonationRepository.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAUwLMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T14:40:58.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DonationModel.cs",
+              "DocumentMoniker": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Donation\\DonationModel.cs",
+              "RelativeDocumentMoniker": "DMS\\Donation\\DonationModel.cs",
+              "ToolTip": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Donation\\DonationModel.cs",
+              "RelativeToolTip": "DMS\\Donation\\DonationModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T14:40:20.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminUI.cs",
+              "DocumentMoniker": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Admin\\AdminUI.cs",
+              "RelativeDocumentMoniker": "DMS\\Admin\\AdminUI.cs",
+              "ToolTip": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Admin\\AdminUI.cs",
+              "RelativeToolTip": "DMS\\Admin\\AdminUI.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAIwMIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T14:57:14.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Admin\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "DMS\\Admin\\AdminRepository.cs",
+              "ToolTip": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Admin\\AdminRepository.cs",
+              "RelativeToolTip": "DMS\\Admin\\AdminRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T14:55:41.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Admin\\AdminService.cs",
+              "RelativeDocumentMoniker": "DMS\\Admin\\AdminService.cs",
+              "ToolTip": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Admin\\AdminService.cs",
+              "RelativeToolTip": "DMS\\Admin\\AdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T14:56:37.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminModel.cs",
+              "DocumentMoniker": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Admin\\AdminModel.cs",
+              "RelativeDocumentMoniker": "DMS\\Admin\\AdminModel.cs",
+              "ToolTip": "D:\\OOP-lab\\PROJECT-1\\DMS\\DMS\\Admin\\AdminModel.cs",
+              "RelativeToolTip": "DMS\\Admin\\AdminModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T14:53:20.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\DonorManagementSystem_Approach2_CSharp\\DonorManagementSystem_Approach2\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\DonorManagementSystem_Approach2_CSharp\\DonorManagementSystem_Approach2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T13:53:22.058Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
