@@ -6,6 +6,7 @@ namespace DMS.Donor
 {
     public class DonorUI
     {
+
         public DonorService service;
 
         // Constructor
