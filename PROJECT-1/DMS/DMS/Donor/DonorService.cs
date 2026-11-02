@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DMS.Donation;
+using System;
 using System.Collections.Generic;
 
 namespace DMS.Donor
@@ -72,6 +73,56 @@ namespace DMS.Donor
 
             return false;
         }
+        // word search
+        public List<DonorModel> search(string word)
+        {
+            List<DonorModel> result = new List<DonorModel>();
+
+            foreach (DonorModel donor in repository.donors)
+            {
+                if (donor.Name.Contains(word))
+                {
+                    result.Add(donor);
+                }
+
+            }
+            return result;
+
+        }
+        //Numeric Range
+        public List<DonorModel> Range (int min,int max)
+        {
+            List<DonorModel> range = new List<DonorModel>();
+
+            foreach (DonorModel donor in repository.donors)
+            {
+                if (donor.Age>=min && donor.Age <=max)
+                {
+                    range.Add(donor);
+                }
+
+            }
+            return range;
+
+        }
+        //Exact Match
+        public List<DonorModel> Status(string bloodgroup)
+        {
+            List<DonorModel> status = new List<DonorModel>();
+
+            foreach (DonorModel donor in repository.donors)
+            {
+                if (donor.BloodGroup == bloodgroup)
+                {
+                    status.Add(donor);
+                }
+
+            }
+            return status;
+
+        }
+
+
 
         // Check All Donor Information
         public bool CheckDonorData(string name, int age, string blood, string contact)

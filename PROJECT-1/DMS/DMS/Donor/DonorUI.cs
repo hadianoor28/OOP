@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Runtime.Remoting.Messaging;
 
 namespace DMS.Donor
 {
@@ -327,6 +328,103 @@ namespace DMS.Donor
             }
 
             Pause();
+        }
+        // WORD
+        public void SearchWord()
+        {
+            Console.Clear();
+
+            Console.Write("Enter the Letter: ");
+            string word = Console.ReadLine();
+            List<DonorModel> donors = service.search(word);
+
+            Console.WriteLine("===== DONORS with specific word=====");
+            Console.WriteLine();
+
+            if (donors.Count == 0)
+            {
+                Console.WriteLine("No Donors Found!");
+            }
+            else
+            {
+                foreach (DonorModel donor in donors)
+                {
+                    DisplayDonor(donor);
+                    Console.WriteLine();
+                }
+            }
+
+            Pause();
+        }
+        //Range
+        public void SearchByRange()
+        {
+            Console.Clear();
+            
+            Console.Write("Enter the Min value: ");
+            int min = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter the Max value: ");
+            int max = Convert.ToInt32(Console.ReadLine());
+
+
+            List <DonorModel> donors = service.Range(min,max);
+
+            Console.WriteLine("===== DONORS with specific word=====");
+            Console.WriteLine();
+
+            if (donors.Count == 0)
+            {
+                Console.WriteLine("No Donors Found!");
+            }
+            else
+            {
+                foreach (DonorModel donor in donors)
+                {
+                    DisplayDonor(donor);
+                    Console.WriteLine();
+                }
+            }
+
+            Pause();
+        }
+        // STATUS
+        public void SearchByStatus()
+        {
+            Console.Clear();
+
+            Console.Write("Enter the BloodGroup: ");
+            string bloodgrp = Console.ReadLine();
+
+
+            List<DonorModel> donors = service.Status(bloodgrp);
+
+            Console.WriteLine("===== DONORS with specific word=====");
+            Console.WriteLine();
+
+            if (donors.Count == 0)
+            {
+                Console.WriteLine("No Donors Found!");
+            }
+            else
+            {
+                foreach (DonorModel donor in donors)
+                {
+                    DisplayDonor(donor);
+                    Console.WriteLine();
+                }
+            }
+
+            Pause();
+        }
+        public void Filter()
+        {
+            Console.WriteLine("Wanna search by word: ");
+            Console.WriteLine("1. By Range");
+            Console.WriteLine("2. By status");
+            
+
+
+
         }
 
         // Sort donors by age

@@ -124,7 +124,7 @@ namespace DMS.Admin
         {
             int choice = 0;
 
-            while (choice != 11)
+            while (choice != 14)
             {
                 Console.Clear();
 
@@ -139,7 +139,14 @@ namespace DMS.Admin
                 Console.WriteLine("8. Record Donation");
                 Console.WriteLine("9. View All Donations");
                 Console.WriteLine("10. Donor Donation History");
-                Console.WriteLine("11. Logout");
+                Console.WriteLine("11. Search by word");
+                Console.WriteLine("12. Search BY Range");
+                Console.WriteLine("13. Search by Status");
+                
+                
+
+
+                Console.WriteLine("14. Logout");
 
                 choice = ReadChoice();
 
@@ -184,6 +191,20 @@ namespace DMS.Admin
                     donationUI.ShowDonorHistory();
                 }
                 else if (choice == 11)
+                {
+                    donorUI.SearchWord();
+
+                }
+                else if (choice == 12)
+                {
+                    donorUI.SearchByRange();
+                }
+                else if (choice == 13)
+                {
+                    donorUI.SearchByStatus();
+                }
+
+                else if (choice == 14)
                 {
                     Console.WriteLine("Logged Out Successfully!");
                 }
