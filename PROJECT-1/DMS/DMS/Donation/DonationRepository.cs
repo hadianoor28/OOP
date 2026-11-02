@@ -6,11 +6,12 @@ namespace DMS.Donation
 {
     public class DonationRepository
     {
+
         public List<DonationModel> donations;
         public string fileName = "donations.txt";
         public string idFile = "donationId.txt";
 
-        // Constructor
+        // CONSTRUCTOR
         public DonationRepository()
         {
             donations = new List<DonationModel>();
