@@ -165,8 +165,7 @@ namespace DMS.Donation
                 Console.WriteLine("===== DONATION SUCCESSFUL =====");
                 Console.WriteLine();
 
-                List<DonationModel> donations =
-                    service.ViewDonations();
+                List<DonationModel> donations = service.ViewDonations();
 
                 DonationModel savedDonation = donations[donations.Count - 1];
 

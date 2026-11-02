@@ -62,7 +62,7 @@ namespace DMS.Donation
                     }
                     else
                     {
-                        // Support old number-only file
+                        // Support number-only file
                         newId = Convert.ToInt32(firstLine);
                     }
                 }
